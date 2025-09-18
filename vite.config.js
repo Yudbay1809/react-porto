@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/NAMA-REPO-GITHUB/', // Ganti dengan nama repo kamu
+  base: '/react-porto/', // Ganti dengan nama repo kamu
 })
